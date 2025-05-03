@@ -71,15 +71,18 @@ Before running the app, follow these steps:
 
 This app predicts temperature using the Lagrange formula:
 
-```math
-P(x) = y₀L₀(x) + y₁L₁(x) + ⋯ + yₙLₙ(x)
-```
+$$
+P(x) = y₀L₀(x) + y₁L₁(x) + \ldots + yₙLₙ(x)
+$$
 
-Where:
+Dengan \$Lᵢ(x)\$:
 
-```math
-Lᵢ(x) = ∏_{j=0, j≠i}^{n} (x - xⱼ) / (xᵢ - xⱼ)
-```
+$$
+Lᵢ(x) = \prod_{j=0, j≠i}^{n} \frac{x - xⱼ}{xᵢ - xⱼ}
+$$
+
+<hr class="my-8 border-t-2 border-gray-300" />
+
 
 ---
 
