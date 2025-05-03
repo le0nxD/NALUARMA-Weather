@@ -112,12 +112,6 @@ $$
 
 ---
 
-<div align="center">
-  <h2>🌈 Tampilan Aplikasi</h2>
-  <img src="https://via.placeholder.com/800x400?text=Main+Page+Screenshot" alt="Main Page Screenshot" width="800" />
-  <img src="https://via.placeholder.com/800x400?text=Prediction+Page+Screenshot" alt="Prediction Page Screenshot" width="800" />
-</div>
-
 ---
 
 ## 🤝 **Kontribusi**
