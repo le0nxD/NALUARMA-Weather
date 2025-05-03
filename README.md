@@ -75,7 +75,7 @@ $$
 P(x) = y₀L₀(x) + y₁L₁(x) + \ldots + yₙLₙ(x)
 $$
 
-Dengan \$Lᵢ(x)\$:
+\$Lᵢ(x)\$:
 
 $$
 Lᵢ(x) = \prod_{j=0, j≠i}^{n} \frac{x - xⱼ}{xᵢ - xⱼ}
