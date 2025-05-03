@@ -1,7 +1,3 @@
-Berikut adalah README versi yang lebih **estetik** dengan elemen visual tambahan, struktur yang lebih rapi, dan ikon yang menarik:
-
----
-
 <div align="center">
   <h1>🌦️ <strong>Naluarma Weather</strong></h1>
   <p>
@@ -86,7 +82,7 @@ $$
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/yourusername/naluarma-weather.git
+   git clone https://github.com/le0nxD/naluarma-weather.git
    ```
 
 2. Masuk ke folder project:
@@ -101,7 +97,7 @@ $$
    npm install
    ```
 
-4. Tambahkan API key di file `.env` (lihat bagian **Konfigurasi API**).
+4. Tambahkan API key di file `WeatherContext` (lihat bagian **Konfigurasi API**).
 
 5. Jalankan development server:
 
@@ -146,9 +142,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <em>✨ Dibuat dengan 💖 oleh [Your Name](https://github.com/yourusername).</em>
+  <em>✨ Dibuat dengan 💖 oleh [Naufal Darlian](https://github.com/le0nxD)).</em>
 </div>
 
 ---
-
-README ini sangat cocok untuk digunakan pada GitHub dan menciptakan kesan profesional! 😊 Jika ada tambahan, beri tahu saya!
