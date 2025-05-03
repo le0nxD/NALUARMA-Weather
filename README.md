@@ -4,7 +4,6 @@
     <em>✨ Prediksi Cuaca Real-Time & Interpolasi Lagrange untuk Masa Depan 🌍</em>
   </p>
   <a href="https://naluarma-weather.netlify.app/">
-    <img src="https://via.placeholder.com/800x300?text=Naluarma+Weather+Banner" alt="Naluarma Weather Banner" width="800" />
   </a>
   <p>
     <img src="https://img.shields.io/badge/React-%5E18.2.0-61DAFB?style=for-the-badge&logo=react" alt="React" />
@@ -36,7 +35,7 @@
 
 Sebelum menggunakan aplikasi, lakukan langkah berikut:
 
-1. **Ganti API Key** di file `.env`:
+1. **Ganti API Key** di file `WeatherContext`:
 
    ```env
    VITE_WEATHER_API_KEY=your_api_key_here
