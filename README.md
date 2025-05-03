@@ -1,4 +1,3 @@
-html
 <div align="center">
   <h1 class="text-4xl font-bold text-blue-600">🌦️ <strong>Naluarma Weather</strong></h1>
   <p class="text-xl text-gray-600">
