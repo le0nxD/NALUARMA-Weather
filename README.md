@@ -25,12 +25,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x300?text=Feature+Preview" alt="Preview Screenshot" width="600" />
-</div>
-
----
-
 ## ⚠️ **PENTING: Konfigurasi API**
 
 Sebelum menggunakan aplikasi, lakukan langkah berikut:
