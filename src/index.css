@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary-50: #eef2ff;
+  --color-primary-100: #e0e7ff;
+  --color-primary-200: #c7d2fe;
+  --color-primary-300: #a5b4fc;
+  --color-primary-400: #818cf8;
+  --color-primary-500: #6366f1;
+  --color-primary-600: #4f46e5;
+  --color-primary-700: #4338ca;
+  --color-primary-800: #3730a3;
+  --color-primary-900: #312e81;
+  
+  /* Weather Based Colors */
+  --color-sunny-50: #fff7ed;
+  --color-sunny-100: #ffedd5;
+  --color-sunny-500: #f97316;
+  --color-sunny-700: #c2410c;
+  
+  --color-rainy-50: #f0f9ff;
+  --color-rainy-100: #e0f2fe;
+  --color-rainy-500: #0ea5e9;
+  --color-rainy-700: #0369a1;
+  
+  --color-cloudy-50: #f8fafc;
+  --color-cloudy-100: #f1f5f9;
+  --color-cloudy-500: #64748b;
+  --color-cloudy-700: #334155;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  @apply antialiased text-slate-800;
+}
+
+.container {
+  @apply px-4 mx-auto max-w-7xl;
+}
+
+.section {
+  @apply py-12 md:py-20;
+}
+
+.card {
+  @apply bg-white rounded-xl shadow-md overflow-hidden transition-transform hover:shadow-lg;
+}
+
+/* Weather Backgrounds */
+.bg-weather-sunny {
+  @apply bg-gradient-to-b from-amber-50 to-amber-100;
+}
+
+.bg-weather-rainy {
+  @apply bg-gradient-to-b from-blue-50 to-blue-100;
+}
+
+.bg-weather-cloudy {
+  @apply bg-gradient-to-b from-slate-50 to-slate-100;
+}
+
+.bg-weather-foggy {
+  @apply bg-gradient-to-b from-gray-50 to-gray-100;
+}
+
+/* Map Container */
+.leaflet-container {
+  @apply h-64 md:h-96 rounded-xl shadow-md;
+}
