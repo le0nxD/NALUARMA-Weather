@@ -1,6 +1,3 @@
-Berikut versi **README yang ditulis ulang dalam bahasa Inggris**, lengkap dengan **badge tambahan** untuk GitHub stars, forks, issues, commit terakhir, dan top language:
-
-````markdown
 <div align="center">
 
 # 🌦️ **Naluarma Weather**
