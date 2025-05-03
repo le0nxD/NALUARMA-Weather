@@ -1,4 +1,3 @@
-Berikut versi yang lebih **rapih dan estetik** dari dokumentasi tersebut, dengan tata letak yang lebih konsisten, spasi yang lega, dan gaya markdown yang bersih namun menarik:
 
 ---
 
@@ -133,4 +132,3 @@ Proyek ini menggunakan [MIT License](LICENSE).
 
 ---
 
-Apakah kamu ingin saya bantu buat versi ini dalam bentuk file `README.md` langsung?
